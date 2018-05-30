@@ -1,0 +1,4 @@
+ <ul>
+      <li>To a JSP page</a>.
+      <li>To a servlet</a>.
+    </ul>
